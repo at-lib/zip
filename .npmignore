@@ -1,0 +1,9 @@
+node_modules/
+tsconfig.json
+.editorconfig
+*.test.ts
+*-lock.json
+*.lock
+*.log.*
+*.log
+*.tgz

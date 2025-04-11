@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"strict": true
+	},
+	"files": [
+		"zip.test.ts"
+	]
+}

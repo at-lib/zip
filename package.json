@@ -1,0 +1,22 @@
+{
+  "name": "@lib/zip",
+  "version": "1.0.0",
+  "description": "(De)compress Zip archives in Node and browsers",
+  "license": "0BSD",
+  "author": "Juha Järvi",
+  "homepage": "https://github.com/at-lib/zip/#readme",
+  "bugs": {
+    "url": "https://github.com/at-lib/zip/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/at-lib/zip.git"
+  },
+  "main": "zip.ts",
+  "scripts": {
+    "test": "run zip.test"
+  },
+  "devDependencies": {
+    "@lib/run": "^1.0.3"
+  }
+}
